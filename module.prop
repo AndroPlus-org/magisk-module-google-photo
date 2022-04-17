@@ -1,0 +1,6 @@
+id=gphoto
+name=Patch for Google Photo
+version=v01
+versionCode=1
+author=AndroPlus
+description=Don't show delete prompt on Google Photo
